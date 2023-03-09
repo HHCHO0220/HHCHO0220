@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=100&section=header&text=HHCHO0220&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=0:12c2e9,50:c471ed,100:f64f59&height=100&section=header&text=Hyun-ho%20Cho&fontColor=FFFFFF&fontSize=40&animation=twinkling)
 
-## 📱 Mobile App Developer
+## Mobile App Developer
 
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 <br/>
 <br/>
-## 💻 Skills
+## Skills
 
 ### Native
 
@@ -20,5 +20,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white">
 <br/>
 <br/>
-## 📧 Contacts
+## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chohh02@gmail.com)](mailto:chohh02@gmail.com)
