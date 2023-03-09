@@ -22,3 +22,7 @@
 <br/>
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chohh02@gmail.com)](mailto:chohh02@gmail.com)
+<br/>
+<br/>
+<br/>
+![Hyunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHCHO0220&show_icons=true&theme=radical)
