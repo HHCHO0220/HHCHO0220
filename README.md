@@ -26,3 +26,5 @@
 <br/>
 <br/>
 ![Hyunho's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHCHO0220&show_icons=true&bg_color=00000000&theme=aura)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHCHO0220&langs_count=5&layout=compact&theme=aura)](https://github.com/HHCHO0220/HHCHO0220)
